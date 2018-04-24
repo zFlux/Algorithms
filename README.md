@@ -26,3 +26,14 @@ Running Instructions:
 
 1. Compile: "gcc gcd.c -o gcd"
 2. Run using two numbers e.g. in linux "./gcd 42 105"
+
+## Quicksort_Java-10
+
+Algorithm Purpose: Another efficient algorithm for sorting lists
+
+Compiler / interpreter detail: Java 10, Java SE Runtime Environment 18.3 (build 10+46) (Windows 10 Pro)
+
+Running Instructions:
+
+1. Compile: "javac quicksort.java"
+2. Run the program and input a list to sort e.g. "java quicksort 5 3 4 19 3" 
