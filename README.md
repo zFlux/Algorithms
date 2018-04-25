@@ -37,3 +37,4 @@ Running Instructions:
 
 1. Compile: "javac quicksort.java"
 2. Run the program and input a list to sort e.g. "java quicksort 5 3 4 19 3" 
+3. (optional) Run the program with a randomly generated array e.g. "java quicksort random 100 100" where the first value is the length of the array and the second value is the maximum element value
