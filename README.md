@@ -38,3 +38,15 @@ Running Instructions:
 1. Compile: "javac quicksort.java"
 2. Run the program and input a list to sort e.g. "java quicksort 5 3 4 19 3" 
 3. (optional) Run the program with a randomly generated array e.g. "java quicksort random 100 100" where the first value is the length of the array and the second value is the maximum element value
+
+## Median-Search_Ruby-2.6
+
+Algorithm Purpose: An efficient algorithm for finding the median of two sorted lists of arbitrary size
+
+Compiler / interpreter detail: ruby 2.6.5p114 (2019-10-01 revision 67812) [x86_64-linux]
+
+Running Instructions:
+
+1. Ensure you have the Ruby interpreter installed and available
+2. Run the ruby the find_median.rb ruby script ( in linux: "./find_median.rb" )
+
