@@ -48,5 +48,5 @@ Compiler / interpreter detail: ruby 2.6.5p114 (2019-10-01 revision 67812) [x86_6
 Running Instructions:
 
 1. Ensure you have the Ruby interpreter installed and available
-2. Run the ruby the find_median.rb ruby script ( in linux: "./find_median.rb" )
+2. Run the find_median.rb ruby script ( in linux: "./find_median.rb" )
 
